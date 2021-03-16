@@ -13,4 +13,4 @@ Now change the directory
 ```bash
 cd Resume
 ```
-###after that open file sumit_resume.html file in web browser
+### after that open file sumit_resume.html file in web browser
