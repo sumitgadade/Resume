@@ -4,7 +4,7 @@ This is my resume in html format.
 
 ## To see the the resume follow the following :
 
-clone the repository by running following commond
+clone the repository by running following command
 ```bash
 git clone https://github.com/sumitgadade/Resume
 ```
